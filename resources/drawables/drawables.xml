@@ -1,0 +1,4 @@
+<resources>
+    <bitmap id="LauncherIcon" filename="ap-black-v2.png" scaleX="60" scaleY="60" dithering="none"/>
+    <bitmap id="Dial" filename="ap-black-v2.png" scaleX="360" scaleY="360" dithering="none" compress="true" automaticPalette="true"/>
+</resources>
